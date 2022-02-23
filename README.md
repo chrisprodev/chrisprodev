@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Christian/@chrisprodev, a Front-end Developer focused on building User Interfaces.
-- 👀 I’m interested in Web and Mobile development.
+I’m a Front-end Developer and multidisciplinary Designer with 10 years of experience in delivering digital products, with a passion for building simple and engaging user experiences. I have worked across a wide range of design disciplines from UI design to prototyping and front-end development.
 
-<!---
-chrisprodev/chrisprodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Web and Mobile development.
